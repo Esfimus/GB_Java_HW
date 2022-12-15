@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f948448-cdd4-4946-97a5-9e5fa2f8a2b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Backslash problem/JB_Connect_Four.Topics-Regexps-Backslash_problem.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Backslash problem/JB_Connect_Four.Topics-Regexps-Backslash_problem.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Can you/JB_Connect_Four.Topics-Regexps-Can_you.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Can you/JB_Connect_Four.Topics-Regexps-Can_you.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Different colo(u)rs/JB_Connect_Four.Topics-Regexps-Different_colo_u_rs.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Different colo(u)rs/JB_Connect_Four.Topics-Regexps-Different_colo_u_rs.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Escapism/JB_Connect_Four.Topics-Regexps-Escapism.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Escapism/JB_Connect_Four.Topics-Regexps-Escapism.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Help the teacher/JB_Connect_Four.Topics-Regexps-Help_the_teacher.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Help the teacher/JB_Connect_Four.Topics-Regexps-Help_the_teacher.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Matching pattern/JB_Connect_Four.Topics-Regexps-Matching_pattern.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Matching pattern/JB_Connect_Four.Topics-Regexps-Matching_pattern.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Rings of Power/JB_Connect_Four.Topics-Regexps-Rings_of_Power.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Rings of Power/JB_Connect_Four.Topics-Regexps-Rings_of_Power.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/The dot/JB_Connect_Four.Topics-Regexps-The_dot.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/The dot/JB_Connect_Four.Topics-Regexps-The_dot.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Theory/JB_Connect_Four.Topics-Regexps-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/.idea/modules/Topics/Regexps/Theory/JB_Connect_Four.Topics-Regexps-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Game logic/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Game logic/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Multiple games/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Multiple games/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Winning condition/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/Winning condition/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/main/connectfour/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/main/connectfour/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/test/ConnectFourTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/test/ConnectFourTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/test/ConnectFourTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/classes/kotlin/test/ConnectFourTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/classes/ConnectFourTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/classes/ConnectFourTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/TEST-ConnectFourTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/TEST-ConnectFourTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/out/production/classes/connectfour/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/out/production/classes/connectfour/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/src/connectfour/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/src/connectfour/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/test/ConnectFourTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Connect Four/task/test/ConnectFourTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/Regexps/Can you/out/production/classes/META-INF/Topics-Regexps-Can_you.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/Regexps/Can you/out/production/classes/META-INF/Topics-Regexps-Can_you.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/Regexps/Can you/out/production/classes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/Regexps/Can you/out/production/classes/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Connect Four/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/JB_Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/JB_Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/JB Zookeeper/Topics/String formatting/Format Double with a comma and 2 decimal digits/out/production/classes/META-INF/Topics-String_formatting-Format_Double_with_a_comma_and_2_decimal_digits.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/JB Zookeeper/Topics/String formatting/Format Double with a comma and 2 decimal digits/out/production/classes/META-INF/Topics-String_formatting-Format_Double_with_a_comma_and_2_decimal_digits.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/KotlinPlayground/src/main/kotlin/playground/playground.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/KotlinPlayground/src/main/kotlin/playground/playground.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7Ml1y2hS0n5NW0u4ihmy7X9N9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dobrenok/Documents/Niko/PC COSMONAUT/Documents/Coding/Practice/Kotlin/JB Connect Four&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f948448-cdd4-4946-97a5-9e5fa2f8a2b4" name="Changes" comment="" />
+      <created>1665735320751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665735320751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
